@@ -1,2 +1,3 @@
 # hello-world
 Just playing around with Git Hub
+Trying out Git Hub for 1st time.   Used to using 'git' standalone so this is a bit new...
